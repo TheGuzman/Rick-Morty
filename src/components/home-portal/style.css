@@ -1,0 +1,19 @@
+.to-home__link{
+display: flex;
+flex-direction: column;
+color: white;
+text-decoration: none;
+color: white;
+align-items: center;
+justify-content: center;
+margin-bottom: 4em;
+}
+
+.to-home__link p{
+   margin: 1em 0em;
+    }
+
+.to-home__button{
+    height: 5em;
+    width: fit-content;
+}

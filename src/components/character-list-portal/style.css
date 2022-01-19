@@ -1,0 +1,19 @@
+.to-character__list__link{
+display: flex;
+flex-direction: column;
+color: white;
+text-decoration: none;
+color: white;
+align-items: center;
+justify-content: center;
+padding-left: 2em;
+}
+
+.to-character__list__link p{
+   margin: 1em 0em;
+    }
+
+.to-character__list__button{
+    height: 5em;
+    width: fit-content;
+}
