@@ -14,7 +14,7 @@ function CharacterCard(props) {
         fetch(props.data?.episode[0])
         .then(r=>r.json())
         .then(d=>setEpisode(d))
-    },[props.data.episode])
+    },[])
     return (
         <Link to={`/character/${props.data.id}`} className='character__anchor'><div className='character__container'>
                     <img alt ='character' src={props.data.image} className='character__img'></img>
