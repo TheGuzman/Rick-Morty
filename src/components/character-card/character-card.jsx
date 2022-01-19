@@ -16,7 +16,7 @@ function CharacterCard(props) {
         .then(d=>setEpisode(d))
     },[])
     return (
-        <Link to={`/character/${props.data.id}`} className='character__anchor'><div className='character__container'>
+        <Link to={`/character/${props.data?.id}`} className='character__anchor'><div className='character__container'>
                     <img alt ='character' src={props.data.image} className='character__img'></img>
                     <div className='character__text__container'>
                         <h2 className='character__name'>{props.data.name}</h2>
