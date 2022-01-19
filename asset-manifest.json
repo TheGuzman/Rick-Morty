@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TheGuzman/Rick-Morty.io/static/css/main.b3abe5e4.chunk.css",
+    "main.js": "/TheGuzman/Rick-Morty.io/static/js/main.bbba9e57.chunk.js",
+    "main.js.map": "/TheGuzman/Rick-Morty.io/static/js/main.bbba9e57.chunk.js.map",
+    "runtime-main.js": "/TheGuzman/Rick-Morty.io/static/js/runtime-main.4db828b7.js",
+    "runtime-main.js.map": "/TheGuzman/Rick-Morty.io/static/js/runtime-main.4db828b7.js.map",
+    "static/js/2.0343af67.chunk.js": "/TheGuzman/Rick-Morty.io/static/js/2.0343af67.chunk.js",
+    "static/js/2.0343af67.chunk.js.map": "/TheGuzman/Rick-Morty.io/static/js/2.0343af67.chunk.js.map",
+    "static/js/3.d8877142.chunk.js": "/TheGuzman/Rick-Morty.io/static/js/3.d8877142.chunk.js",
+    "static/js/3.d8877142.chunk.js.map": "/TheGuzman/Rick-Morty.io/static/js/3.d8877142.chunk.js.map",
+    "index.html": "/TheGuzman/Rick-Morty.io/index.html",
+    "static/css/main.b3abe5e4.chunk.css.map": "/TheGuzman/Rick-Morty.io/static/css/main.b3abe5e4.chunk.css.map",
+    "static/js/2.0343af67.chunk.js.LICENSE.txt": "/TheGuzman/Rick-Morty.io/static/js/2.0343af67.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/TheGuzman/Rick-Morty.io/static/media/portal.f2fea5e9.jpeg",
+    "static/media/portal.09620ccf.gif": "/TheGuzman/Rick-Morty.io/static/media/portal.09620ccf.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4db828b7.js",
+    "static/js/2.0343af67.chunk.js",
+    "static/css/main.b3abe5e4.chunk.css",
+    "static/js/main.bbba9e57.chunk.js"
+  ]
+}
